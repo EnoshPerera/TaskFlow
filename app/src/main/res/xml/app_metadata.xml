@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AppFunctionAppMetadata xmlns:appfn="http://schemas.android.com/apk/res-auto"
+    appfn:description="TaskFlow manages a temporary task list. Tasks are stored in memory and disappear when the app process ends. Use IDs returned by createTask or readTasks for updates and deletions. Titles must not be blank. Updates require a title or completion status. Delete tasks only when the user requests deletion."
+    appfn:displayDescription="@string/app_functions_description" />

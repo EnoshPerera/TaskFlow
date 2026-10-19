@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TaskFlow</string>
+    <string name="app_functions_description">Create, view, update, and delete temporary tasks.</string>
+</resources>

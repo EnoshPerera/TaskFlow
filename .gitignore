@@ -1,0 +1,48 @@
+# Android / Gradle generated files and machine-specific settings
+*.iml
+.gradle/
+.kotlin/
+.idea/
+local.properties
+build/
+captures/
+.externalNativeBuild/
+.cxx/
+.DS_Store
+*.apk
+*.aab
+*.apks
+*.hprof
+
+# Each contributor downloads configuration for their own Firebase project.
+# Client config is not an admin credential; see README.md.
+google-services.json
+google-services-*.json
+GoogleService-Info.plist
+.firebase/
+firebase-debug.log*
+
+# Credentials and private signing material. Also inspect every staged change.
+.env
+.env.*
+!.env.example
+secrets/
+secrets.properties
+keystore.properties
+key.properties
+*service-account*.json
+*service_account*.json
+*serviceAccount*.json
+*firebase-adminsdk*.json
+application_default_credentials.json
+*.jks
+*.keystore
+*.p12
+*.pfx
+*.pem
+*.key
+
+# Local logs and generated documents/reports may contain private information.
+*.log
+/output/
+/tmp/
